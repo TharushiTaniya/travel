@@ -10,7 +10,7 @@ export default function Header() {
                 {/* Logo */}
                 <Link href="/">
                     <h1 className="font-bold text-sm sm:text-xl flex flex-wrap">
-                        <span className="text-slate-500">Sahand</span>
+                        <span className="text-slate-500">Tani's</span>
                         <span className="text-slate-900">Blog</span>
                     </h1>
                 </Link>
